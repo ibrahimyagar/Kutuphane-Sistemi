@@ -35,13 +35,13 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kütüphane
 ![Kitaplar Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/Desktop/Kutuphane%20Sistemi/images/kitaplar.png)
 
 ### Kitap Türleri Sayfası
-![Kitap Türleri Sayfası](Desktop/Kutuphane%20Sistemi/images/kitapTurleri.png)
+![Kitap Türleri Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/Desktop/Kutuphane%20Sistemi/images/kitapTurleri.png)
 
 ### Kitap Ekleme Sayfası
-![Kitap Ekleme Sayfası](Desktop/Kutuphane%20Sistemi/images/kitapEkle.png)
+![Kitap Ekleme Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/Desktop/Kutuphane%20Sistemi/images/kitapEkle.png)
 
 ### Kitap Kiralama Sayfası
-![Kitap Kiralama Sayfası](Desktop/Kutuphane%20Sistemi/images/kitapKirala.png)
+![Kitap Kiralama Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/Desktop/Kutuphane%20Sistemi/images/kitapKirala.png)
 
 ## 🛠️ Teknolojiler
 
