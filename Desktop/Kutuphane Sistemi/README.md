@@ -32,16 +32,16 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kütüphane
 ## 🖼️ Ekran Görüntüleri
 
 ### Kitaplar Sayfası
-![Kitaplar Sayfası](WebUygulamaProje1/images/kitaplar.png)
+![Kitaplar Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/WebUygulamaProje1/images/kitaplar.png)
 
 ### Kitap Türleri Sayfası
-![Kitap Türleri Sayfası](WebUygulamaProje1/images/kitapTurleri.png)
+![Kitap Türleri Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/WebUygulamaProje1/images/kitapTurleri.png)
 
 ### Kitap Ekleme Sayfası
-![Kitap Ekleme Sayfası](WebUygulamaProje1/images/kitapEkle.png)
+![Kitap Ekleme Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/WebUygulamaProje1/images/kitapEkle.png)
 
 ### Kitap Kiralama Sayfası
-![Kitap Kiralama Sayfası](WebUygulamaProje1/images/kitapKirala.png)
+![Kitap Kiralama Sayfası](https://raw.githubusercontent.com/ibrahimyagar/Kutuphane-Sistemi/main/WebUygulamaProje1/images/kitapKirala.png)
 
 ## 🛠️ Teknolojiler
 
