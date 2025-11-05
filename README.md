@@ -32,7 +32,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş bir kütüphane
 ## 🖼️ Ekran Görüntüleri
 
 ### Kitaplar Sayfası
-![Kitaplar Sayfası](WebUygulamaProje1/images/kitaplar.png)
+![Kitaplar Sayfası](Desktop/Kutuphane Sistemi/WebUygulamaProje1/images/kitaplar.png)
 
 ### Kitap Türleri Sayfası
 ![Kitap Türleri Sayfası](WebUygulamaProje1/images/kitapTurleri.png)
@@ -188,3 +188,4 @@ Projeye katkıda bulunmak için:
 ---
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
+
